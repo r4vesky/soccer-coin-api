@@ -1,6 +1,6 @@
 # soccer-coin-api
 
-![](https://img.shields.io/npm/dw/soccer-coin-api) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) 
+![](https://img.shields.io/npm/dw/soccer-coin-api)
 
 - [Примеры](https://github.com/r4vesky/soccer-coin-api/tree/master/examples "Примеры")
 
