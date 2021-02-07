@@ -1,0 +1,39 @@
+{
+  "name": "soccer-coin-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "description": "SoccerCoin SDK для Node.JS",
+  "homepage": "https://github.com/r4vesky/soccer-coin-api#readme",
+  "license": "MIT",
+  "author": {
+    "name": "Ivan Ravesky",
+    "email": "r4vesky@gmail.com",
+    "url": "https://vk.me/r4vesky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4vesky/soccer-coin-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/r4vesky/soccer-coin-api/issues"
+  },
+  "files": [
+    "lib"
+  ],
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "keywords": [
+    "vk",
+    "sdk",
+    "soccer-coin",
+    "coin",
+    "node",
+    "js",
+    "es6",
+    "es7"
+  ],
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
